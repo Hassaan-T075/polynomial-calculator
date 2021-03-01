@@ -1,1 +1,1 @@
-A Self-Made Polynomial Calculator for Manipulation of Two Polynomials
+A Self-Made Polynomial Calculator For The Manipulation Of Two Polynomials
